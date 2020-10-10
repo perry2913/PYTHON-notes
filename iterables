@@ -1,0 +1,5 @@
+any() function returns the boolean value:
+    True if at least one element of an iterable is true
+all() method returns:
+    True - If all elements in an iterable are true
+* unpacks a list
